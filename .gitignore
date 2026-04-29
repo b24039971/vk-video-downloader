@@ -1,0 +1,25 @@
+# Игнорировать папку с загрузками
+downloads/
+
+# Игнорировать системные файлы Windows/Mac
+.DS_Store
+Thumbs.db
+
+# Игнорировать файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальные окружения
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# Игнорировать настройки IDE
+.idea/
+.vscode/
+*.swp
+*.swo
