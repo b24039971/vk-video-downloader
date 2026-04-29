@@ -24,7 +24,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/vk-video-downloader.git
+   git clone https://github.com/b24039971/vk-video-downloader.git
    cd vk-video-downloader
    ```
 
